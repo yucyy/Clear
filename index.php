@@ -1,8 +1,6 @@
 <?php
-    public function(){
-    	
-	echo '11';
+	public function (){
+		
+		echo "123456789";
 	
 	}
-
-
